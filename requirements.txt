@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+dask
+gymnasium
+stable-baselines3[extra]
+numpy
+joblib
+spacy
